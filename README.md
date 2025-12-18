@@ -36,4 +36,3 @@ O Analisador de Desempenho Acadêmico é uma aplicação console em Java que sim
 4. Execute o programa:
    ```bash
    java AnaliseDesempenhoAcademico
-  ```
