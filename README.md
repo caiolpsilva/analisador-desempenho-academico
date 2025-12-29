@@ -1,4 +1,4 @@
-# Analisador de Desempenho Acadêmico
+# Analisador de Desempenho Acadêmico |  ![Java](https://img.shields.io/badge/Java-17+-red?logo=java)
 
 O Analisador de Desempenho Acadêmico é uma aplicação console em Java que simula um sistema simples para análise do desempenho de um único aluno. Ele permite registrar notas, calcular média e desvio padrão, definir status acadêmico ("Aprovado", "Recuperação" ou "Reprovado") e fornecer feedback qualitativo sobre a consistência do desempenho.
 
